@@ -191,7 +191,7 @@ Use the button in the Quick Start section.
 
 ---
 
-*Black Myth: Wukong · Updated 2026-11-21 · Shared under the MIT License*
+*Black Myth: Wukong · Updated 2026-11-22 · Shared under the MIT License*
 
 
-*Last updated: 2026-11-21*
+*Last updated: 2026-11-22*
